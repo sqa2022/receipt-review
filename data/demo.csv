@@ -1,0 +1,7 @@
+receipt_id,description,vendor,date,currency,subtotal,tax,total
+S1,cloud hosting monthly subscription,Example Hosting,2026-10-15,USD,10.00,1.00,11.00
+S2,printer paper and ink cartridges,Example Office,2026-10-15,USD,10.00,1.00,11.00
+S3,restaurant lunch client meeting,Example Cafe,2026-10-15,USD,10.00,1.00,15.00
+S4,cloud hosting monthly subscription,Example Hosting,2026-10-15,USD,10.00,1.00,11.00
+S5,zxqv blorp,Example Unknown,2026-10-15,USD,10.00,1.00,11.00
+S6,train ticket business trip,Example Rail,2026-10-15,USD,10.00,1.00,NaN

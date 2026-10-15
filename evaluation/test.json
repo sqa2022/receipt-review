@@ -1,0 +1,110 @@
+[
+  {
+    "description": "usage charge for hosted server instances",
+    "category": "software",
+    "vendor": "test-vendor-0-software",
+    "template_id": "test-phrase-0-software"
+  },
+  {
+    "description": "renew the annual editing application entitlement",
+    "category": "software",
+    "vendor": "test-vendor-1-software",
+    "template_id": "test-phrase-1-software"
+  },
+  {
+    "description": "encrypted online backup storage renewal",
+    "category": "software",
+    "vendor": "test-vendor-2-software",
+    "template_id": "test-phrase-2-software"
+  },
+  {
+    "description": "return rail fare to visit customer",
+    "category": "travel",
+    "vendor": "test-vendor-0-travel",
+    "template_id": "test-phrase-0-travel"
+  },
+  {
+    "description": "overnight accommodation for industry conference",
+    "category": "travel",
+    "vendor": "test-vendor-1-travel",
+    "template_id": "test-phrase-1-travel"
+  },
+  {
+    "description": "cab transfer from terminal to hotel",
+    "category": "travel",
+    "vendor": "test-vendor-2-travel",
+    "template_id": "test-phrase-2-travel"
+  },
+  {
+    "description": "replacement ink for the printer",
+    "category": "office",
+    "vendor": "test-vendor-0-office",
+    "template_id": "test-phrase-0-office"
+  },
+  {
+    "description": "stationery pack containing pens and notebooks",
+    "category": "office",
+    "vendor": "test-vendor-1-office",
+    "template_id": "test-phrase-1-office"
+  },
+  {
+    "description": "ergonomic chair for workspace",
+    "category": "office",
+    "vendor": "test-vendor-2-office",
+    "template_id": "test-phrase-2-office"
+  },
+  {
+    "description": "client catch-up over coffee at cafe",
+    "category": "meals",
+    "vendor": "test-vendor-0-meals",
+    "template_id": "test-phrase-0-meals"
+  },
+  {
+    "description": "team catering for midday meeting",
+    "category": "meals",
+    "vendor": "test-vendor-1-meals",
+    "template_id": "test-phrase-1-meals"
+  },
+  {
+    "description": "restaurant bill after customer discussion",
+    "category": "meals",
+    "vendor": "test-vendor-2-meals",
+    "template_id": "test-phrase-2-meals"
+  },
+  {
+    "description": "sponsored search campaign placement",
+    "category": "marketing",
+    "vendor": "test-vendor-0-marketing",
+    "template_id": "test-phrase-0-marketing"
+  },
+  {
+    "description": "print promotional flyer batch",
+    "category": "marketing",
+    "vendor": "test-vendor-1-marketing",
+    "template_id": "test-phrase-1-marketing"
+  },
+  {
+    "description": "paid social media audience campaign",
+    "category": "marketing",
+    "vendor": "test-vendor-2-marketing",
+    "template_id": "test-phrase-2-marketing"
+  },
+  {
+    "description": "external accountant prepares monthly books",
+    "category": "professional",
+    "vendor": "test-vendor-0-professional",
+    "template_id": "test-phrase-0-professional"
+  },
+  {
+    "description": "solicitor reviews a legal contract",
+    "category": "professional",
+    "vendor": "test-vendor-1-professional",
+    "template_id": "test-phrase-1-professional"
+  },
+  {
+    "description": "independent strategy consultant session",
+    "category": "professional",
+    "vendor": "test-vendor-2-professional",
+    "template_id": "test-phrase-2-professional"
+  }
+]

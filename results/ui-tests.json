@@ -1,0 +1,10 @@
+{
+  "tests": 13,
+  "passed": 13,
+  "ui_workflow": "six demo records → inspect group and amount → change unknown → confirm → CSV roundtrip",
+  "max_js_python_probability_error": 2.220446049250313e-16,
+  "csv_structural_regressions": {
+    "passed": 4,
+    "total": 4
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "description": "patient dental checkup",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-0",
+    "template_id": "unknown-phrase-0"
+  },
+  {
+    "description": "gym membership renewal",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-1",
+    "template_id": "unknown-phrase-1"
+  },
+  {
+    "description": "charity donation fundraiser",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-2",
+    "template_id": "unknown-phrase-2"
+  },
+  {
+    "description": "child school tuition",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-3",
+    "template_id": "unknown-phrase-3"
+  },
+  {
+    "description": "electricity household meter",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-4",
+    "template_id": "unknown-phrase-4"
+  },
+  {
+    "description": "personal wardrobe shoes",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-5",
+    "template_id": "unknown-phrase-5"
+  },
+  {
+    "description": "mortgage principal repayment",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-6",
+    "template_id": "unknown-phrase-6"
+  },
+  {
+    "description": "pet veterinary checkup",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-7",
+    "template_id": "unknown-phrase-7"
+  },
+  {
+    "description": "concert admission pass",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-8",
+    "template_id": "unknown-phrase-8"
+  },
+  {
+    "description": "parking fine penalty",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-9",
+    "template_id": "unknown-phrase-9"
+  },
+  {
+    "description": "passport visa processing",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-10",
+    "template_id": "unknown-phrase-10"
+  },
+  {
+    "description": "unclassified zxqv blorp",
+    "category": "UNKNOWN",
+    "vendor": "unknown-vendor-11",
+    "template_id": "unknown-phrase-11"
+  }
+]

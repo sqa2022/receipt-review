@@ -1,0 +1,1 @@
+{"seed":17,"review_confidence_threshold":0.65,"supported_currencies":["USD","EUR","GBP","CNY"],"model":"TF-IDF unigram/bigram + LogisticRegression(C=4)","network_at_inference":false,"dataset_kind":"synthetic"}

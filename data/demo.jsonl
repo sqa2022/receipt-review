@@ -1,0 +1,6 @@
+{"receipt_id": "S1", "description": "cloud hosting monthly subscription", "vendor": "Example Hosting", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "11.00"}
+{"receipt_id": "S2", "description": "printer paper and ink cartridges", "vendor": "Example Office", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "11.00"}
+{"receipt_id": "S3", "description": "restaurant lunch client meeting", "vendor": "Example Cafe", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "15.00"}
+{"receipt_id": "S4", "description": "cloud hosting monthly subscription", "vendor": "Example Hosting", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "11.00"}
+{"receipt_id": "S5", "description": "zxqv blorp", "vendor": "Example Unknown", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "11.00"}
+{"receipt_id": "S6", "description": "train ticket business trip", "vendor": "Example Rail", "date": "2026-10-15", "currency": "USD", "subtotal": "10.00", "tax": "1.00", "total": "NaN"}

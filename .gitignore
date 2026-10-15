@@ -1,5 +1,6 @@
 __pycache__/
-*.py[cod]
 .venv/
-.pytest_cache/
-.DS_Store
+*.pyc
+results/*.json
+!results/evaluation-summary.json
+!results/ui-tests.json

@@ -1,0 +1,31 @@
+{
+  "data_kind": "authored synthetic; merchant IDs and exact phrase templates disjoint; shared vocabulary remains; no real-world claim",
+  "train_n": 36,
+  "known_test_n": 18,
+  "unknown_test_n": 12,
+  "threshold_policy": "0.65 heuristic selected before this split; uncalibrated score; no tuning on test",
+  "vendor_overlap": 0,
+  "template_overlap": 0,
+  "methods": {
+    "model": {
+      "known_accuracy_before_rejection": 1.0,
+      "known_macro_f1_before_rejection": 1.0,
+      "known_rejection_rate": 1.0,
+      "accepted_known_count": 0,
+      "accepted_known_accuracy": null,
+      "unknown_false_acceptance_count": 0,
+      "unknown_false_acceptance_rate": 0.0,
+      "unknown_rejection_rate": 1.0
+    },
+    "keywords": {
+      "known_accuracy_before_rejection": 0.9444444444444444,
+      "known_macro_f1_before_rejection": 0.942857142857143,
+      "known_rejection_rate": 0.2777777777777778,
+      "accepted_known_count": 13,
+      "accepted_known_accuracy": 1.0,
+      "unknown_false_acceptance_count": 0,
+      "unknown_false_acceptance_rate": 0.0,
+      "unknown_rejection_rate": 1.0
+    }
+  }
+}

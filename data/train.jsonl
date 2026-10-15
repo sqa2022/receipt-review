@@ -1,0 +1,48 @@
+{"description": "cloud hosting monthly subscription", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "design software license renewal", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "developer tool subscription", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "online storage service payment", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "project management software plan", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "code editor annual license", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "web hosting server bill", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "team software subscription", "category": "software", "source": "authored_synthetic", "split": "train"}
+{"description": "train ticket business trip", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "hotel room work conference", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "airline ticket client meeting", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "taxi ride to airport", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "rail fare work travel", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "hotel accommodation invoice", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "flight business travel booking", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "airport transport taxi receipt", "category": "travel", "source": "authored_synthetic", "split": "train"}
+{"description": "printer paper and ink cartridges", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "office desk stationery order", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "notebooks pens and paper", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "desk chair office supplies", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "printer toner cartridge purchase", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "stationery pencils office order", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "office paper supplies invoice", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "monitor desk equipment", "category": "office", "source": "authored_synthetic", "split": "train"}
+{"description": "restaurant lunch client meeting", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "business dinner restaurant bill", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "cafe coffee client discussion", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "catering team lunch order", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "restaurant meal business meeting", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "cafe lunch receipt", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "team dinner food delivery", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "coffee and sandwiches work lunch", "category": "meals", "source": "authored_synthetic", "split": "train"}
+{"description": "advertising campaign social media", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "paid search advertisement invoice", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "promotional flyer printing order", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "sponsored post marketing campaign", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "social media advertisement spend", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "search marketing promotion bill", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "advertising banner design campaign", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "flyer distribution promotion", "category": "marketing", "source": "authored_synthetic", "split": "train"}
+{"description": "legal consultation contract review", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "accounting service monthly invoice", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "bookkeeping professional service", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "consultant strategy advice fee", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "lawyer legal contract advice", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "accountant tax preparation service", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "professional translation service", "category": "professional", "source": "authored_synthetic", "split": "train"}
+{"description": "business consultancy strategy review", "category": "professional", "source": "authored_synthetic", "split": "train"}

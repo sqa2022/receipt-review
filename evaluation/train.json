@@ -1,0 +1,218 @@
+[
+  {
+    "description": "cloud hosting subscription",
+    "category": "software",
+    "vendor": "train-vendor-0-software",
+    "template_id": "train-phrase-0-software"
+  },
+  {
+    "description": "design software license",
+    "category": "software",
+    "vendor": "train-vendor-1-software",
+    "template_id": "train-phrase-1-software"
+  },
+  {
+    "description": "developer tool plan",
+    "category": "software",
+    "vendor": "train-vendor-2-software",
+    "template_id": "train-phrase-2-software"
+  },
+  {
+    "description": "online storage service",
+    "category": "software",
+    "vendor": "train-vendor-3-software",
+    "template_id": "train-phrase-3-software"
+  },
+  {
+    "description": "web server monthly bill",
+    "category": "software",
+    "vendor": "train-vendor-4-software",
+    "template_id": "train-phrase-4-software"
+  },
+  {
+    "description": "project management software",
+    "category": "software",
+    "vendor": "train-vendor-5-software",
+    "template_id": "train-phrase-5-software"
+  },
+  {
+    "description": "train ticket business trip",
+    "category": "travel",
+    "vendor": "train-vendor-0-travel",
+    "template_id": "train-phrase-0-travel"
+  },
+  {
+    "description": "hotel room conference",
+    "category": "travel",
+    "vendor": "train-vendor-1-travel",
+    "template_id": "train-phrase-1-travel"
+  },
+  {
+    "description": "airline ticket meeting",
+    "category": "travel",
+    "vendor": "train-vendor-2-travel",
+    "template_id": "train-phrase-2-travel"
+  },
+  {
+    "description": "taxi ride airport",
+    "category": "travel",
+    "vendor": "train-vendor-3-travel",
+    "template_id": "train-phrase-3-travel"
+  },
+  {
+    "description": "rail fare business travel",
+    "category": "travel",
+    "vendor": "train-vendor-4-travel",
+    "template_id": "train-phrase-4-travel"
+  },
+  {
+    "description": "flight accommodation booking",
+    "category": "travel",
+    "vendor": "train-vendor-5-travel",
+    "template_id": "train-phrase-5-travel"
+  },
+  {
+    "description": "printer paper ink cartridges",
+    "category": "office",
+    "vendor": "train-vendor-0-office",
+    "template_id": "train-phrase-0-office"
+  },
+  {
+    "description": "office desk stationery",
+    "category": "office",
+    "vendor": "train-vendor-1-office",
+    "template_id": "train-phrase-1-office"
+  },
+  {
+    "description": "notebooks pens paper",
+    "category": "office",
+    "vendor": "train-vendor-2-office",
+    "template_id": "train-phrase-2-office"
+  },
+  {
+    "description": "desk chair supplies",
+    "category": "office",
+    "vendor": "train-vendor-3-office",
+    "template_id": "train-phrase-3-office"
+  },
+  {
+    "description": "printer toner purchase",
+    "category": "office",
+    "vendor": "train-vendor-4-office",
+    "template_id": "train-phrase-4-office"
+  },
+  {
+    "description": "stationery pencils order",
+    "category": "office",
+    "vendor": "train-vendor-5-office",
+    "template_id": "train-phrase-5-office"
+  },
+  {
+    "description": "restaurant lunch client",
+    "category": "meals",
+    "vendor": "train-vendor-0-meals",
+    "template_id": "train-phrase-0-meals"
+  },
+  {
+    "description": "business dinner restaurant",
+    "category": "meals",
+    "vendor": "train-vendor-1-meals",
+    "template_id": "train-phrase-1-meals"
+  },
+  {
+    "description": "cafe coffee discussion",
+    "category": "meals",
+    "vendor": "train-vendor-2-meals",
+    "template_id": "train-phrase-2-meals"
+  },
+  {
+    "description": "catering team lunch",
+    "category": "meals",
+    "vendor": "train-vendor-3-meals",
+    "template_id": "train-phrase-3-meals"
+  },
+  {
+    "description": "restaurant meal meeting",
+    "category": "meals",
+    "vendor": "train-vendor-4-meals",
+    "template_id": "train-phrase-4-meals"
+  },
+  {
+    "description": "sandwiches work lunch",
+    "category": "meals",
+    "vendor": "train-vendor-5-meals",
+    "template_id": "train-phrase-5-meals"
+  },
+  {
+    "description": "advertising campaign social media",
+    "category": "marketing",
+    "vendor": "train-vendor-0-marketing",
+    "template_id": "train-phrase-0-marketing"
+  },
+  {
+    "description": "paid search advertisement",
+    "category": "marketing",
+    "vendor": "train-vendor-1-marketing",
+    "template_id": "train-phrase-1-marketing"
+  },
+  {
+    "description": "promotional flyer printing",
+    "category": "marketing",
+    "vendor": "train-vendor-2-marketing",
+    "template_id": "train-phrase-2-marketing"
+  },
+  {
+    "description": "sponsored post marketing",
+    "category": "marketing",
+    "vendor": "train-vendor-3-marketing",
+    "template_id": "train-phrase-3-marketing"
+  },
+  {
+    "description": "search promotion spend",
+    "category": "marketing",
+    "vendor": "train-vendor-4-marketing",
+    "template_id": "train-phrase-4-marketing"
+  },
+  {
+    "description": "advertising banner campaign",
+    "category": "marketing",
+    "vendor": "train-vendor-5-marketing",
+    "template_id": "train-phrase-5-marketing"
+  },
+  {
+    "description": "legal consultation contract",
+    "category": "professional",
+    "vendor": "train-vendor-0-professional",
+    "template_id": "train-phrase-0-professional"
+  },
+  {
+    "description": "accounting service invoice",
+    "category": "professional",
+    "vendor": "train-vendor-1-professional",
+    "template_id": "train-phrase-1-professional"
+  },
+  {
+    "description": "bookkeeping professional service",
+    "category": "professional",
+    "vendor": "train-vendor-2-professional",
+    "template_id": "train-phrase-2-professional"
+  },
+  {
+    "description": "consultant strategy advice",
+    "category": "professional",
+    "vendor": "train-vendor-3-professional",
+    "template_id": "train-phrase-3-professional"
+  },
+  {
+    "description": "lawyer legal review",
+    "category": "professional",
+    "vendor": "train-vendor-4-professional",
+    "template_id": "train-phrase-4-professional"
+  },
+  {
+    "description": "accountant tax preparation",
+    "category": "professional",
+    "vendor": "train-vendor-5-professional",
+    "template_id": "train-phrase-5-professional"
+  }
+]
